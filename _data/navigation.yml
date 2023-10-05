@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  # - title: "Category"
+  #   url: /categories/
+  # - title: "Tag"
+  #   url: /tags/
+  - title: "Research"
+    url: "/blog/"
+  - title: "CV"
+    url: "/cv/"
+  #- title: "Gallery"
+  #  url: "/gallery/"
+  #- title: "Vidualizations"
+  #  url: "/Vidualizations/"
+  #- title: "Research"
+  #  url: "/research/"
+  - title: "Meme"
+    url: "/meme/"
+  - title: "Miscellaneous"
+    url: "/random/"

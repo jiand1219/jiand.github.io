@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-22T16:49:47+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ocean and Climate</title><author><name>Dong Jian</name><email>dong.jian@studium.uni-hamburg.de</email></author><entry><title type="html">Large Scale Surface Circulation With Mitgcm Adjoint</title><link href="http://localhost:4000/Large-scale-surface-circulation-with-MITgcm-Adjoint/" rel="alternate" type="text/html" title="Large Scale Surface Circulation With Mitgcm Adjoint" /><published>2022-11-10T00:00:00+03:00</published><updated>2022-11-10T00:00:00+03:00</updated><id>http://localhost:4000/Large-scale-surface-circulation-with-MITgcm-Adjoint</id><content type="html" xml:base="http://localhost:4000/Large-scale-surface-circulation-with-MITgcm-Adjoint/"><![CDATA[<p>The regional sea level off Southwest Australia (Southern Ocean Indian Sector) is more variable, as shown by satellite observation. We thus use ocean models to evaluate how ocean surface drivers affect sea level variation in this region, including <strong>east-west winds</strong>, <strong>north-south winds</strong>, <strong>surface heat</strong>, and <strong>freshwater flux</strong>.</p>
+
+<p>We have two approaches using an ocean model (e.g., <a href="http://mitgcm.org/">MITgcm </a>).</p>
+
+<p>The first one is called Forward Perturbation Experiments. We perturb one element, such as winds, at an initial time and then compare sea level changes at the end between the perturbed and reference runs. Such difference may refer to the Sensitivity of sea level to winds. But it is very expensive if we have many inputs (e.g., winds, heat, and freshwater fluxes) in the forward model. We also have to consider the perturbation time, location, and magnitude, which we do not necessarily know. For every change we made, we had to rerun the model.</p>
+<figure class="">
+  <img src="/assets/Post_pics/adjoint.png" alt="this is a placeholder image" /><figcaption>
+      
+
+    </figcaption></figure>
+
+<p>Luckily, we can use the Adjoint model to estimate sensitivities with one simulation, which reveals the underlying dynamical processes that affect sea level variation. Contrary to the forward model, the adjoint model runs backward in time, driven by a cost function, <strong>a three-year mean sea level height averaged over the region</strong>. The outputs of adjoint model are sensitivities to model variables.</p>
+
+<p>We can identify oceanic processes, such as the <strong>Rossby waves</strong>, <strong>coastally trapped waves</strong>, <strong>Ekman pumping</strong> and <strong>ACC mean flows</strong>, indicated by the sensitivity pattern and pathway.</p>
+
+<figure class="">
+  <img src="/assets/Post_pics/Sensitivity_to_winds.png" alt="this is a placeholder image" /><figcaption>
+      The red box is the region where we define the cost function
+
+    </figcaption></figure>
+
+<figure class="">
+  <img src="/assets/Post_pics/Sensitivity_to_buoy.PNG" alt="this is a placeholder image" /></figure>
+
+<p>Positive/Negative sensitivities mean a positive perturbation of this element at this lag time and location can increase/decrease the value of the Sea-Level variation in the end.</p>
+
+<p>Note that sensitivities have a different unit. So how can we compare their relative importance? First, we can multiply the sensitivities with its forcing uncertainty/variability. In other words, we estimate the response of sea level to forcing. Then, focusing on the leading factor winds, we can further carry out sensitivity-like forward perturbation experiments in which the initial wind stress forcing is perturbed, and its pattern is distributed like sensitivity.</p>
+
+<p>Now we show the animation of SSH anomaly in response to sensitivity-like wind perturbation. Finally, we see how wind-driven ocean circulation affects Sea-Level variation.</p>
+
+<!-- Courtesy of embedresponsively.com -->
+
+<div class="responsive-video-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/IMHYVRroZgo" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  </div>]]></content><author><name>Dong Jian</name><email>dong.jian@studium.uni-hamburg.de</email></author><summary type="html"><![CDATA[The regional sea level off Southwest Australia (Southern Ocean Indian Sector) is more variable, as shown by satellite observation. We thus use ocean models to evaluate how ocean surface drivers affect sea level variation in this region, including east-west winds, north-south winds, surface heat, and freshwater flux.]]></summary></entry></feed>
