@@ -17,4 +17,4 @@ gallery3:
 <!-- {% include gallery id="gallery3" class="full" caption="This is a third gallery example with two images and fills the entire content container." %} -->
 
 {% include gallery id="gallery2" layout="half" caption="I study physical oceanography." %}
-{% include gallery id="gallery3" layout="half" caption="Adjoint model." %}
+<!-- {% include gallery id="gallery3" layout="half" caption="Adjoint model." %}-->

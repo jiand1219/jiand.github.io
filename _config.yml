@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Ocean and Climate"
 title_separator          : "|"
-subtitle                 : "An Oceanographer Portfolio" # site tagline that appears below site title in masthead
+#subtitle                 : "An Oceanographer Portfolio" # site tagline that appears below site title in masthead
 name                     : "Dong Jian"
 description              : # "This is Dong's website for blogging."
 url                      : "https://oceanography-rookie.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,7 +82,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "ocean_rookie"
+  username               : "iam_dong2"
 facebook:
   username               :
   app_id                 :
@@ -108,18 +108,18 @@ author:
   name             : "Dong Jian"
   avatar           : "/assets/images/88x88.png"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I study **physical oceanography**"
-  location         : "Hamburg, Germany"
-  email            : "dong.jian@studium.uni-hamburg.de"
+  location         : "Norwich, England"
+  email            : "d.jian@uea.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "dong.jian@studium.uni-hamburg.de"
+      #url: "d.jian@uea.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ocean_rookie"
+      url: "https://twitter.com/iam_dong2"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -135,16 +135,16 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ocean_rookie"
+      url: "https://twitter.com/iam_dong2"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/oceanography-rookie/"
+      url: "https://github.com/jiand1219/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      #url: "https://github.com/oceanography-rookie/"
+      #url: "https://github.com/jiand1219/"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:

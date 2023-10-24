@@ -8,8 +8,8 @@ main:
   #   url: /tags/
   - title: "Research"
     url: "/blog/"
-  - title: "CV"
-    url: "/cv/"
+  #- title: "CV"
+  #  url: "/cv/"
   #- title: "Gallery"
   #  url: "/gallery/"
   #- title: "Vidualizations"
