@@ -111,9 +111,9 @@ author:
   location         : "Norwich, England"
   email            : "d.jian@uea.ac.uk"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "d.jian@uea.ac.uk"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "d.jian@uea.ac.uk"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://jiand1219.github.io"
