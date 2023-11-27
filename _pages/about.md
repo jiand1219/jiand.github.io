@@ -14,16 +14,16 @@ header:
 # About me
 I study Physical Oceanography.
 
-I am investigating polar sea ice change and its impacts on ocean circulation.
+I am investigating ocean circulation in the Nordic Seas 🌊 and its interaction with sea ice 🧊.
 
 
-- 1997: born in Hunan, China 
-- 2016: went to college, Shanghai, China
-- 2019: traveled to Rome, Italy for an internship 🇮🇹 🤌
+- 1997: born in Hunan Province, China 🇨🇳
+- 2016: went to college, Shanghai, China 🇨🇳
+- 2019: traveled to Rome, Italy for an internship 🇮🇹 🤌 
 - 2020: enrolled in graduate school, Hamburg, Germany 🇩🇪 🥨 
 - 2021: moved to Utrecht, the Netherlands 🇳🇱 🌷
 - 2022: graduated and moved to Saudi Arabia for an internship 🇸🇦
-- 2023-: doing PhD in Norwich, England 🇬🇧
+- 2023.10-: doing PhD in Norwich, England 🇬🇧
 
 {: .text-justify}
 # Contact me
