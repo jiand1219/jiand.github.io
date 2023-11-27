@@ -23,7 +23,7 @@ I am investigating ocean circulation in the Nordic Seas 🌊 and its interaction
 - 2020: enrolled in graduate school, Hamburg, Germany 🇩🇪 🥨 (studying Oceanography)
 - 2021: moved to Utrecht, the Netherlands! 🇳🇱 🌷 (what a happpy life)!
 - 2022: graduated and moved to Saudi Arabia for an internship 🇸🇦 (tried & not succeeded) 
-- 2023.10-: doing PhD in Norwich, England 🇬🇧 (enjoy pub despite the weather 🍻) 
+- 2023.10-: doing PhD in Norwich, UK 🇬🇧 (enjoy pub despite the weather 🍻) 
 
 {: .text-justify}
 # Contact me
