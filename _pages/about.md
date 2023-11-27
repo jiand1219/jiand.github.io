@@ -12,7 +12,7 @@ header:
   caption: "Mediterranean Sea, Naples, Italy"
 ---
 # About me
-I study Physical Oceanography.
+I study Physical Oceanography using numerical model (MITgcm).
 
 I am investigating ocean circulation in the Nordic Seas 🌊 and its interaction with sea ice 🧊.
 
