@@ -17,12 +17,12 @@ I study Physical Oceanography using numerical model (MITgcm).
 I am investigating ocean circulation in the Nordic Seas 🌊 and its interaction with sea ice 🧊.
 
 
-- 1997: born and raised in Hunan Province, China 🇨🇳 (a land of fish and rice)
-- 2016: went to college, Shanghai 🇨🇳 (studying Oceanography~) 
-- 2019: traveled to Rome, Italy for an internship 🇮🇹 🤌 (first time abroad!)
-- 2020: enrolled in graduate school, Hamburg, Germany 🇩🇪 🥨 (studying Oceanography)
-- 2021: moved to Utrecht, the Netherlands! 🇳🇱 🌷 (what a happpy life)!
-- 2022: graduated and moved to Saudi Arabia for an internship 🇸🇦 (tried & not succeeded) 
+- 1997: born and raised in Hunan Province, China 🇨🇳 
+- 2016: went to college, Shanghai 🇨🇳 (studied Oceanography~) 
+- 2019: traveled to Rome, Italy for an internship 🇮🇹 🤌 (first time abroad and loved it!)
+- 2020: moved to Hamburg, Germany for graduate school 🇩🇪 🥨 (stick with Oceanography)
+- 2021: moved to Utrecht, the Netherlands! 🇳🇱 🌷 (felt like home)!
+- 2022: moved to Saudi Arabia for an internship 🇸🇦 (bittersweet) 
 - 2023.10-: doing PhD in Norwich, UK 🇬🇧 (enjoy pub despite the weather 🍻) 
 
 {: .text-justify}
