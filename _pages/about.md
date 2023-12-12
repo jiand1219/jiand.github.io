@@ -21,8 +21,8 @@ I am investigating ocean circulation in the Nordic Seas 🌊 and its interaction
 - 2016: went to college, Shanghai 🇨🇳 (studied Oceanography~) 
 - 2019: traveled to Rome, Italy for an internship 🇮🇹 🤌 (first time abroad and loved it!)
 - 2020: moved to Hamburg, Germany for graduate school 🇩🇪 🥨 (stick with Oceanography)
-- 2021: moved to Utrecht, the Netherlands! 🇳🇱 🌷 (felt like home)!
-- 2022: moved to Saudi Arabia for an internship 🇸🇦 (bittersweet) 
+- 2021: moved to Utrecht, the Netherlands! 🇳🇱 🌷 (felt like home with friends!)
+- 2022: moved to Saudi Arabia for an internship 🇸🇦 (an adventure) 
 - 2023.10-: doing PhD in Norwich, UK 🇬🇧 (enjoy pub despite the weather 🍻) 
 
 {: .text-justify}
