@@ -27,7 +27,7 @@ I am investigating ocean circulation in the Nordic Seas 🌊 and its interaction
 
 {: .text-justify}
 # Contact me
-For any inquires, you can reach me via email: <d.jian@uea.ac.uk>
+For any inquires, you can reach me via email: <d.jian[AT]uea.ac.uk>
 
 
 
