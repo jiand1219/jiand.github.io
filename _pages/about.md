@@ -16,7 +16,7 @@ I study Physical Oceanography using numerical model (MITgcm).
 
 I am investigating ocean circulation in the Nordic Seas 🌊 and its interaction with sea ice 🧊.
 
-
+<!-- 
 - 1997: born and raised in Hunan Province, China 🇨🇳 
 - 2016: went to college, Shanghai 🇨🇳 (studied Oceanography~) 
 - 2019: traveled to Rome, Italy for an internship 🇮🇹 🤌 (first time abroad and loved it!)
@@ -29,5 +29,5 @@ I am investigating ocean circulation in the Nordic Seas 🌊 and its interaction
 # Contact me
 For any inquires, you can reach me via email: d.jian[AT]uea.ac.uk
 
-
+ -->
 
