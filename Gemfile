@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-git_source(:github) { |repo_name| "https://github.com/jiand1219" }
+git_source(:github) { |repo_name| "https://github.com/jiand1219/jiand1219.github.io"}
 gem "github-pages", group: :jekyll_plugins
 gem 'rake', '~> 13.2.1'
 gem 'faraday-retry'
