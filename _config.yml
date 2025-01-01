@@ -17,11 +17,6 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-variables:
-  LC_ALL: "C.UTF-8"
-  LANG: "en_US.UTF-8"
-  LANGUAGE: "en_US.UTF-8"
-  
 title                    : "Ocean and Climate"
 title_separator          : "|"
 #subtitle                 : "An Oceanographer Portfolio" # site tagline that appears below site title in masthead
